@@ -57,7 +57,4 @@
 
 <br/>  
 
-<h2 style="color: #44AEFB">📊 Statistics:</h2>
-<div id="statistics" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lananhduong&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+
