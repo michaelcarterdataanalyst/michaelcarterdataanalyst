@@ -10,9 +10,7 @@
   Michael Carter</h1>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ilWX7yp3N4fpMGwDMT/giphy.gif" width="180" height="180"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/michael-carter-6bb398323/">
