@@ -30,10 +30,6 @@
 <p>With keen <strong>analytical thinking</strong> and excellent <strong>communication abilities</strong>, I strive to provide reliable and in-depth insights to leaders, empowering them to make <strong>data-driven business decisions</strong>.</p>
 
 <p>🎷 Reach me at:
-  <a href="https://www.linkedin.com/in/michael-carter-6bb398323/">
-    <img src="https://img.shields.io/badge/Michael_Carter-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  or 
   <a href="mailto:michaelcarton.dataanalyst@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
